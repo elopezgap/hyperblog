@@ -2,4 +2,4 @@ Este documento es la primer prueba de Git
 
 Este es el archivo actualizado.
 
-Hoy hablaremos de la vida.
+Hoy hablaremos de la vida y obra maestra.
