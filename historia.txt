@@ -1,3 +1,5 @@
 Este documento es la primer prueba de Git
 
-Este es el archivo actualizado
+Este es el archivo actualizado.
+
+Hoy hablaremos de la vida.
