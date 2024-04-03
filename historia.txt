@@ -1,3 +1,7 @@
 Este documento es la primer prueba de Git.
 
 Mañana nos enfocaremos en su vida laboral.
+
+Esta es una practica en la que estoy usando otro usuario en el proyecto de elopezgap para comprobar el trabajo con múltiples colaboradores en un repositorio de GitHub.
+
+Esta meramente práctica
