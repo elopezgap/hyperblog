@@ -5,3 +5,6 @@ Mañana nos enfocaremos en su vida laboral.
 Esta es una practica en la que estoy usando otro usuario en el proyecto de elopezgap para comprobar el trabajo con múltiples colaboradores en un repositorio de GitHub.
 
 Esta meramente práctica
+
+
+Este es un usuario que contribuye a este proyecto OpenSource
